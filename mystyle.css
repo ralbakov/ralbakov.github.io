@@ -1,0 +1,49 @@
+.box {
+    background: white;
+    width: 21cm;
+    height: 29cm;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 25px;
+    margin-bottom: 0.5cm;
+    overflow-y: scroll;
+    box-sizing: border-box;
+    font-size: 12pt;
+}
+
+p {
+  margin: 15px 12px 10px;
+}
+
+.otstup {
+  margin-top: 12px;
+}
+.avatar {
+  display: block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  float: left;
+  margin: 10px 10px 10px;
+  }
+
+body {
+    background-image: url("fon.jpeg");
+    }
+
+h1 {
+  text-align: center;
+}
+
+div {
+    width: 600px;
+    height: 700px;
+    padding: 30px 20px 30px 50px;
+    margin: 50px auto;
+    background-color: white;
+    }
+
+.line {
+  border-bottom: 5px solid rgb(0, 208, 255);
+  padding-block-end: 10px;
+}
